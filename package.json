@@ -2,7 +2,7 @@
   "name": "pet-heaven",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xeraaaaaaa.github.io/PetHeaven",
+  "homepage": "https://xeraaaaaaa.github.io/pet-heaven",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@syncfusion/ej2-layouts": "^23.1.36",
