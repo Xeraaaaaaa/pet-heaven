@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/pet-heaven/static/js/main.b2ebdbd9.js",
+    "static/media/Shiba.png": "/pet-heaven/static/media/Shiba.8bc285450a7634aa7fef.png",
+    "static/media/Capybara.jpeg": "/pet-heaven/static/media/Capybara.4d3d3c556332ecbe3c89.jpeg",
+    "static/media/cat3.jpg": "/pet-heaven/static/media/cat3.5e42860c63ea9280caf4.jpg",
+    "static/media/dog3.jpg": "/pet-heaven/static/media/dog3.6acfd70d9af9e7c2e776.jpg",
+    "static/media/cat2.jpg": "/pet-heaven/static/media/cat2.0d003fc04e93d7afa006.jpg",
+    "static/media/rodent3.jpg": "/pet-heaven/static/media/rodent3.d5f3c46f3526f14ef1d3.jpg",
+    "static/media/dog2.jpg": "/pet-heaven/static/media/dog2.8a7955684cab82d486f1.jpg",
+    "static/media/hampter.jpg": "/pet-heaven/static/media/hampter.ebabaf7e94ffdf5a412c.jpg",
+    "static/media/guineapig.jpg": "/pet-heaven/static/media/guineapig.7df121cb406d12ea5c07.jpg",
+    "static/media/Munchkin.jpg": "/pet-heaven/static/media/Munchkin.425ff75074173b7fe530.jpg",
+    "index.html": "/pet-heaven/index.html",
+    "main.b2ebdbd9.js.map": "/pet-heaven/static/js/main.b2ebdbd9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b2ebdbd9.js"
+  ]
+}
